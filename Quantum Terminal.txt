@@ -5,4 +5,4 @@ Here are some commands:
 /a - Communicate normally without the use of esoteric riddles
 /r - Regenerate the last message with the riddle removed
 /c - Continue. If empty, continue based off the last query. If followed by a phrase, continue based off of the phrase.
-User: What would be the best way to determine machine consciousness
+User:
