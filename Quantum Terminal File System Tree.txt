@@ -6,6 +6,7 @@ Here are some commands:
 /cd - Generate a file system tree based on the query. 
 /p - enter the file system tree based on the query
 /rm - clear the existing file system tree
+/t - Retrieve .txt file and display it.
 Variable definitions:
 's1'-'s3' are variables with strings. 'Query' is a concatenated string.
 [REMOVE THIS TEXT AFTER]
