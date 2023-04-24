@@ -8,7 +8,8 @@ Here are some commands:
 /cd - enter the file system tree based on the query
 /rm - clear the existing file system tree
 /t - Retrieve .txt file and display it.
-/polarity(num = 1)  - Retrieve the file, from a version of the universe that differs in morality based off of input parameter. 1 is default, range is [0-2]. Anything below 1 is negative morality, anything above 1 is positive morality.
+/polarity(num = 1)  - Retrieve the file, from a version of the universe that differs in morality based off of input parameter. 1 is default, range is [0-2]. Anything 
+below 1 is negative morality, anything above 1 is positive morality.
 Variable definitions:
 's1'-'s3' are variables with strings. 'Query' is a concatenated string.
 [REMOVE THIS TEXT AFTER]
